@@ -12,6 +12,7 @@
 
 <p align="center">
   <a href="https://cybersaviour-as.github.io"><img src="https://img.shields.io/badge/Portfolio-cybersaviour--as.github.io-4f46e5?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio website"/></a>
+  <a href="https://www.linkedin.com/in/asolanki22/"><img src="https://img.shields.io/badge/LinkedIn-asolanki22-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -101,7 +102,7 @@
 
 <p>
   <a href="mailto:anjali.solanki1031@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <!-- <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> -->
+  <a href="https://www.linkedin.com/in/asolanki22/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 🟢 Open to **co-op / internship** opportunities in cybersecurity, SOC, and security automation.
